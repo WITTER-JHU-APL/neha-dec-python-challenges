@@ -1,0 +1,8 @@
+language: python 
+python:
+  - "3.8"
+  #command to install dependency stuff
+install:
+  - pip install -r build/requirements.txt
+script:
+  - python numberLength.py
