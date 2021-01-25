@@ -4,3 +4,5 @@ class stringToInt :
     stringInput = input("Enter a string: ")
     print(int(stringInput))
     print(stringInput + " is an integer!")
+
+#december python challenge
